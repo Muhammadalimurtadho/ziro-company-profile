@@ -7,7 +7,7 @@
 > Dark premium company profile website untuk **ZIRO13 Creative Digital Studio** – modern, minimal, dan futuristic.  
 > Dibangun dengan HTML, CSS, dan vanilla JavaScript. Tanpa framework, tanpa template.
 
-<video src="assets/demo.mp4" controls autoplay muted loop width="100%"></video>
+[<video src="assets/demo.mp4" controls autoplay muted loop width="100%"></video>](https://github.com/user-attachments/assets/demo.mp4)
 
 ---
 
