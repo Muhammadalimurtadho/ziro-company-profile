@@ -1,4 +1,4 @@
-# ZIRO13 — Company Profile & Portfolio Website
+# ZIRO13 - Company Profile & Portfolio Website
 
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
@@ -31,10 +31,4 @@
 | Font       | [Inter](https://fonts.google.com/specimen/Inter) |
 | Deployment | GitHub Pages (gratis!) |
 
----
 
-## 🚀 Cara Menjalankan
-
-1. Clone repo ini:
-   ```bash
-   git clone https://github.com/[username-kamu]/ziro-company-profile.git
